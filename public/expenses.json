@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Weekly groceries",
+    "amount": 64.3,
+    "category": "Food",
+    "date": "2026-10-05"
+  },
+  {
+    "id": 2,
+    "title": "PATH train card refill",
+    "amount": 30,
+    "category": "Transport",
+    "date": "2026-10-04"
+  },
+  {
+    "id": 3,
+    "title": "Electric bill",
+    "amount": 72.15,
+    "category": "Bills",
+    "date": "2026-10-02"
+  },
+  {
+    "id": 4,
+    "title": "Movie tickets",
+    "amount": 28,
+    "category": "Entertainment",
+    "date": "2026-10-01"
+  },
+  {
+    "id": 5,
+    "title": "Coffee with friends",
+    "amount": 12.5,
+    "category": "Food",
+    "date": "2026-09-30"
+  },
+  {
+    "id": 6,
+    "title": "Running shoes",
+    "amount": 89.99,
+    "category": "Shopping",
+    "date": "2026-09-28"
+  }
+]
